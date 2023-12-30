@@ -7,4 +7,4 @@
   taks:
   - name: check variables
     ansible.builtin.debug:
-      msg: "Hi, I am learning {{course}}" and  the tutor is {{trainer}}"
+      msg: "Hi, I am learning {{ course }}" and  the tutor is {{ trainer }}"
