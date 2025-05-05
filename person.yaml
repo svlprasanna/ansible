@@ -1,0 +1,16 @@
+- name: mohankrishna
+  DOB: "08-01-1988"
+  Address:
+    address_line1: coconut garden
+    address_line2: kr puram
+    city: bangalore
+  email: mohankrishna143@gmail.com
+
+
+- name: prasanna
+  DOB: "17-10-1992"
+  Address:
+    address_line1: kodigehalli road
+    address_line2: coconut garden
+  contact_number: 8919170262
+  email: svlprasanna92@gmail.com
